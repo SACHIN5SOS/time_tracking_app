@@ -2,7 +2,7 @@
 ### FrontEnd Technologies:- [ReactJS](https://reactjs.org/) , [SematicsUI](https://semantic-ui.com/)
 ### BackEnd Technologies:-  NodeJs, JSON
 
-#### While building our time-logging-app we learned and applied a methodolgy for building React App. Those Steps are:-
+#### While building time-logging-app I learned and applied a methodolgy for building React App. Those Steps are:-
 1. Break The App in Components.
 2. Build a static version of the app.
 3. Determine what should be stateful.
@@ -41,4 +41,4 @@ The server is now running at [localhost:3000](localhost:3000)
 #### References
 1. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 2. [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
-3. [FullStack Reaact](https://www.fullstackreact.com/)
+3. [FullStack React](https://www.fullstackreact.com/)
