@@ -1,6 +1,7 @@
 ## A Time Loging App
 ### FrontEnd Technologies:- [ReactJS](https://reactjs.org/) , [SematicsUI](https://semantic-ui.com/)
-### BackEnd Technologies:-  NodeJs, JSON
+### BackEnd Technologies:-  Nodejs
+### Data Seet:- JSON
 
 #### While building time-logging-app I learned and applied a methodolgy for building React App. Those Steps are:-
 1. Break The App in Components.
