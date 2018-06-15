@@ -35,6 +35,10 @@ The server is now running at [localhost:3000](localhost:3000)
 
 
 
-####App Screenshot 
+#### App Screenshot 
 ![Screenshot](https://sachin5sos.github.io/App.PNG)
 
+#### References
+1. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+2. [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+3. [FullStack Reaact](https://www.fullstackreact.com/)
