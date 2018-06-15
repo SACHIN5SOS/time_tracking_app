@@ -35,6 +35,6 @@ The server is now running at [localhost:3000](localhost:3000)
 
 
 
-#####App Screenshot:- 
-(https://sachin5sos.github.io/App.PNG)
+####App Screenshot 
+![Screenshot](https://sachin5sos.github.io/App.PNG)
 
