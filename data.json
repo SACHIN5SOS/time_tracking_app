@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Mow the lawn",
+        "project": "House Chores",
+        "elapsed": 5456099,
+        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
+        "runningSince": 1528910783109
+    },
+    {
+        "title": "React",
+        "project": "ProjectReact",
+        "id": "ef01cc8e-7687-4988-90df-1528d7939dcc",
+        "elapsed": 18143,
+        "runningSince": 1528910786069
+    },
+    {
+        "title": "Vue",
+        "project": "Netflix Clone",
+        "id": "27103792-b38a-4bf0-b767-92912c816f94",
+        "elapsed": 0,
+        "runningSince": null
+    }
+]
